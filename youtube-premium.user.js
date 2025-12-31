@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Premium Logo & Ads Remove
 // @namespace    https://github.com/shajon-dev/youtube-premium
-// @version      1.1
+// @version      1.2
 // @description  Replaces the logo with a positioned Premium logo, removes "Get Premium" upsells, and sanitizes ad content.
 // @author       SHAH MAKHDUM SHAJON
 // @match        *://*.youtube.com/*
@@ -9,8 +9,8 @@
 // @grant        unsafeWindow
 // @run-at       document-start
 // @homepageURL  https://github.com/shajon-dev/youtube-premium
-// @downloadURL  https://raw.githubusercontent.com/shajon-dev/youtube-premium/main/youtube-premium.user.js
-// @updateURL    https://raw.githubusercontent.com/shajon-dev/youtube-premium/main/youtube-premium.user.js
+// @downloadURL  https://raw.githubusercontent.com/shajon-dev/youtube-premium/refs/heads/main/youtube-premium.user.js
+// @updateURL    https://raw.githubusercontent.com/shajon-dev/youtube-premium/refs/heads/main/youtube-premium.user.js
 // @license      Apache-2.0
 // ==/UserScript==
 
